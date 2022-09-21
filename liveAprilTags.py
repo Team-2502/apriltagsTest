@@ -1,6 +1,5 @@
 # import the necessary packages
 import apriltag
-import argparse
 import cv2
 
 
